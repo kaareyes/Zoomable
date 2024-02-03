@@ -5,18 +5,18 @@
         "package": "SDWebImage",
         "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
         "state": {
-          "branch": null,
-          "revision": "2c53f531f1bedd253f55d85105409c28ed4a922c",
-          "version": "5.12.3"
+          "branch": "master",
+          "revision": "a41be90abd89b125cd7588f20b9788108254091a",
+          "version": null
         }
       },
       {
         "package": "SDWebImageSwiftUI",
         "repositoryURL": "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
         "state": {
-          "branch": null,
-          "revision": "cd8625b7cf11a97698e180d28bb7d5d357196678",
-          "version": "2.0.2"
+          "branch": "master",
+          "revision": "79961a5ac3ea7a3253ff643291ff3c158777029c",
+          "version": null
         }
       }
     ]
